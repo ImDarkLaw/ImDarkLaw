@@ -8,7 +8,7 @@
 - Moderator @ [LuckPerms](https://github.com/LuckPerms) - a permissions plugin for Minecraft servers
 - Helper @ [M.O.S.S](https://github.com/MinecraftOSS) - a community for open source Minecraft projects
 
-### Languages and Tools
+## Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -23,6 +23,10 @@
 <br/>
 
 #
+
+## Spotify Status
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mjcremvtb5larpjuqxdvgp0jt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=mjcremvtb5larpjuqxdvgp0jt&redirect=true)
 
 <!-- ### 📊 Stats
 
