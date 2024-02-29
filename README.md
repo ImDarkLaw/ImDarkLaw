@@ -3,7 +3,7 @@
 - Fascinated by the power of communities to bring people together, foster collaboration, and drive positive change.
 - Fueled on Coffee and Steak
 
-## Current Project & Contributiosn
+## Current Project & Contributions
 - Founder @ [League of Greece](https://discord.gg/league-of-greece-923696773141241938) - the largest League of Legends community server in Greece
 - Moderator @ [LuckPerms](https://github.com/LuckPerms) - a permissions plugin for Minecraft servers
 - Helper @ [M.O.S.S](https://github.com/MinecraftOSS) - a community for open source Minecraft projects
