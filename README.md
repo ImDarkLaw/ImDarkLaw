@@ -1,11 +1,15 @@
 
 
 ## Heya, I'm DarkLaw! 👋
-Junior Software Developer from Athens Greece with a strong passion for community administration & moderation on [Discord](<https://discord.com/>).
+- 
+- Fascinated by the power of communities to bring people together, foster collaboration, and drive positive change.
 
-Fascinated by the power of communities to bring people together, foster collaboration, and drive positive change.
+## Current Project & Contributiosn
+- Founder @ [League of Greece](https://discord.gg/league-of-greece-923696773141241938)
+- Moderator @ [LuckPerms](https://github.com/LuckPerms)
+- Helper @ [M.O.S.S](https://github.com/MinecraftOSS)
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -21,6 +25,6 @@ Fascinated by the power of communities to bring people together, foster collabor
 
 #
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
-![ImDarkLaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdarklaw&show_icons=true&theme=gruvbox)
+![ImDarkLaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdarklaw&show_icons=true&theme=gruvbox) -->
