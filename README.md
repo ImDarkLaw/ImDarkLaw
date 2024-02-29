@@ -1,9 +1,9 @@
 ## Heya, I'm DarkLaw! 👋
-- Junior Software Developer
+- Junior Software Developer from Athens, Greece.
 - Fascinated by the power of communities to bring people together, foster collaboration, and drive positive change.
-- Fueled on Coffee and Steak
+- Fueled on Coffee and Steak.
 
-## Current Project & Contributions
+## Current Projects & Contributions
 - Founder @ [League of Greece](https://discord.gg/league-of-greece-923696773141241938) - the largest League of Legends community server in Greece
 - Moderator @ [LuckPerms](https://github.com/LuckPerms) - a permissions plugin for Minecraft servers
 - Helper @ [M.O.S.S](https://github.com/MinecraftOSS) - a community for open source Minecraft projects
@@ -21,8 +21,6 @@
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="Gradle" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg"/>
 <br/>
-
-#
 
 ## Currently vibing to:
 
