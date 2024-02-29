@@ -10,7 +10,7 @@
 
 ## Languages and Tools
 
-<div align="center">
+<div align="left">
     <code><img alt="Java" width="44px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
     <code><img alt="Python" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
     <code><img alt="Git" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
