@@ -27,7 +27,7 @@
     <code><img alt="NodeJS" title="NodeJS" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></code>
     <code><img alt="Git" title="Git" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
     <code><img alt="Gradle" title="Gradle" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg"/></code>
-    <code><img alt="Windows" title="Windows" width="44px" src="https://pngimg.com/d/windows_logos_PNG9.png"/></code>
+    <code><img alt="Windows" title="Windows" width="44px" src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png"/></code>
 </div>
 
 ## Currently vibing to:
