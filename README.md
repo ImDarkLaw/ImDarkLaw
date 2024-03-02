@@ -10,7 +10,7 @@
 
 ## Used Software, Languages & Tools
 
-<div align="left">
+<div align="center">
     <code><img alt="IntelliJ" title="IntelliJ" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/></code>
     <code><img alt="PyCharm" title="PyCharm" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"/></code>
     <code><img alt="VSCode" title="Visual Studio Code" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></code>
@@ -37,3 +37,7 @@
 <!-- ### 📊 Stats
 Stats currently suck, so we don't show them.
 ![ImDarkLaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdarklaw&show_icons=true&theme=gruvbox) -->
+
+## Support my work, if you'd like to:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V1GVSTH)
