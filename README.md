@@ -16,7 +16,7 @@
     <code><img alt="VSCode" title="Visual Studio Code" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></code>
     <code><img alt="Notepad++" title="Notepad++" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png"/></code>
     <code><img alt="HeidiSQL" title="HeidiSQL" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HeidiSQL_logo_image.png/768px-HeidiSQL_logo_image.png"/></code>
-    <code><img alt="Java" title="Java" width="44px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
+    <code><img alt="Java" title="Java" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
     <code><img alt="Python" title="Python" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
     <code><img alt="C++" title="C++" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
     <code><img alt="HTML" title="HTML" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
