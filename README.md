@@ -28,6 +28,7 @@
     <code><img alt="Git" title="Git" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
     <code><img alt="Gradle" title="Gradle" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg"/></code>
     <code><img alt="Windows" title="Windows" width="44px" src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png"/></code>
+    <code><img alt="Photoshop" title="Photoshop" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"/></code>
 </div>
 
 ## Currently vibing to:
