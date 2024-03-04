@@ -4,7 +4,7 @@
 - Fueled on Coffee and Steak.
 
 ## Current Projects & Contributions
-- Founder @ [League of Greece](https://discord.gg/league-of-greece-923696773141241938) - the largest League of Legends community server in Greece
+- Founder @ [League of Greece](https://discord.gg/league-of-greece-923696773141241938) - the largest League of Legends community discord server in Greece
 - Moderator @ [LuckPerms](https://github.com/LuckPerms) - a permissions plugin for Minecraft servers
 - Helper @ [M.O.S.S](https://github.com/MinecraftOSS) - a community for open source Minecraft projects
 
