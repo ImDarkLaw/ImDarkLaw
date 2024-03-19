@@ -10,7 +10,7 @@
 
 ## Used Software, Languages & Tools
 
-<div align="center">
+<div style="text-align: center">
     <code><img alt="IntelliJ" title="IntelliJ" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/></code>
     <code><img alt="PyCharm" title="PyCharm" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"/></code>
     <code><img alt="VSCode" title="Visual Studio Code" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></code>
