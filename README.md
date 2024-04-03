@@ -11,14 +11,14 @@
 ## Used Software, Languages & Tools
 
 <div align="center">
-    <code><img alt="IntelliJ" title="IntelliJ" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/></code>
     <code><img alt="PyCharm" title="PyCharm" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"/></code>
+    <code><img alt="IntelliJ" title="IntelliJ" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/></code>
     <code><img alt="VSCode" title="Visual Studio Code" width="44px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/></code>
     <code><img alt="Python" title="Python" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
     <code><img alt="Java" title="Java" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
+    <code><img alt="Git" title="Git" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
     <code><img alt="HTML" title="HTML" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
     <code><img alt="CSS" title="CSS" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
-    <code><img alt="Git" title="Git" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
     <code><img alt="Access" title="Access" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/2097px-Microsoft_Office_Access_%282019-present%29.svg.png"/></code>
     <code><img alt="Photoshop" title="Photoshop" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"/></code>
     <code><img alt="Windows" title="Windows" width="44px" src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png"/></code>
@@ -32,6 +32,8 @@
 
 ![ImDarkLaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdarklaw&show_icons=true\&theme=dark#gh-dark-mode-only)
 
-### If you value my contributions, consider supporting me:
+## Support me
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V1GVSTH)
+<a href="https://ko-fi.com/darklaw"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+
+<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V1GVSTH) -->
