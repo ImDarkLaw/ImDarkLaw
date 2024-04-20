@@ -36,7 +36,7 @@ Software Developer from Athens, Greece. Fascinated by the power of communities t
     <code><img alt="Windows" title="Windows" width="48px" src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png"/></code>
     <!-- Contribution Activity & Stats -->
     <h2>Contribution Activity</h2>  
-    <img src="https://github-readme-stats.vercel.app/api?username=ImDarkLaw&title_color=EA4245&text_color=FFFFFF&show_icons=true&icon_color=EA4245&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="220" width="460"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImDarkLaw&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=EA4245&fire=EA4245&ring=EA4245" alt="GitHub Streak Stats" height="220" width="460"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ImDarkLaw&title_color=FF7F2A&text_color=FFFFFF&show_icons=true&icon_color=FF7F2A&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="220" width="460"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImDarkLaw&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=FF7F2A&fire=FF7F2A&ring=FF7F2A" alt="GitHub Streak Stats" height="220" width="460"/>
     <br>
 </div>
